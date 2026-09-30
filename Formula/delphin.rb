@@ -1,8 +1,8 @@
 class Delphin < Formula
   desc "Duplex companion for AI agent CLIs: keep talking while it thinks"
   homepage "https://github.com/wuisabel-gif/Delphin"
-  url "https://github.com/wuisabel-gif/Delphin/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "1627d19ecadc2c78b99d90eee3a93c6ec8bd639bc6dee827c6fddfab210cef08"
+  url "https://github.com/wuisabel-gif/Delphin/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "14b2eb859603732594c5568906afa9def3be5d04bb212b2f911de2edc6e0cd74"
   license "MIT"
   head "https://github.com/wuisabel-gif/Delphin.git", branch: "main"
 
